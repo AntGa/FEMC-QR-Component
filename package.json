@@ -1,6 +1,6 @@
 {
   "homepage": "https://github.com/AntGa/FEMC-QR-Component",
-  "name": "qr-component",
+  "name": "FEMC-QR-Component",
   "private": true,
   "version": "0.0.0",
   "type": "module",
